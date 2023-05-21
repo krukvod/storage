@@ -1,6 +1,8 @@
 package storage
 
-import "github.com/krukvod/storage/file"
+import (
+	"github.com/krukvod/storage/internal/file"
+)
 
 type Storage struct{}
 

@@ -1,2 +1,4 @@
 github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
 github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/krukvod/storage v0.0.0-20230514203026-3533e3709bc2 h1:C2AM1adv7kC9F1rgfL9pTJyL7fUXA+MVaSwd048fjWg=
+github.com/krukvod/storage v0.0.0-20230514203026-3533e3709bc2/go.mod h1:Xg2ZSCgIij/Rxd22TLOnoAsV71Se06+uZWoRivvZED4=
